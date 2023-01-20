@@ -6,9 +6,7 @@ title: Home
 
 ## Introduction
 
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
+[Projects](https://glencstev.github.io/projects/)
 
 ## Research Question
 
