@@ -49,7 +49,7 @@ minima:
 #
 header_pages:
 - home.md
--projects/index.md
+- projects.md
 
 # Set to `true` to show excerpts on the homepage.
 #
