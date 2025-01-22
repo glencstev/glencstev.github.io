@@ -1,4 +1,4 @@
-title: Home
+title: Glen Stevens
 
 description: Glen Stevens
 
@@ -22,7 +22,7 @@ minima:
 
   # Generate social links in footer.
   #
-  # social_links:
+   social_links:
   #   - { platform: devto,          user_url: "https://dev.to/jekyll" }
   #   - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #   - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
@@ -31,7 +31,7 @@ minima:
   #   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
   #   - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
   #   - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
-  #   - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jekyll" }
+     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/glencstevens/" }
   #   - { platform: microdotblog,   user_url: "https://micro.blog/jekyll" }
   #   - { platform: pinterest,      user_url: "https://www.pinterest.com/jekyll" }
   #   - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
