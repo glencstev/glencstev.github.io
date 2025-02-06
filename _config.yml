@@ -1,14 +1,14 @@
 title: Glen Stevens
 author:
-  name: Glen Stevens
-  email: glencstev@gmail.com
+  name: "Glen Stevens"
+  email: "glencstev@gmail.com"
 
-# The `>` after `description:` means to ignore line-breaks until next key.
-# If you want to omit the line-break after the end of text, use `>-` instead.
-description: My name is Glen Stevens and I am a robotics Engineer who graduated from ASU with my Bachelors in Robotics Engineering in 2024. I am currently working on my Masters in Engineering at ASU with an expected graduation of May 2025.
+description: >
+  My name is Glen Stevens and I am a robotics Engineer who graduated from ASU 
+  with my Bachelors in Robotics Engineering in 2024. I am currently working 
+  on my Masters in Engineering at ASU with an expected graduation of May 2025.
 
 # Build settings
-
 theme: minima
 
 plugins:
@@ -16,33 +16,14 @@ plugins:
   - jekyll-seo-tag
 
 # Theme-specific settings
-
 minima:
-  # Minima date format.
-  # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
-  #
-  # date_format: "%b %-d, %Y"
-
-  # Generate social links in footer.
-  #
-minima:
-  # Minima date format.
-  # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
-  #
-  # date_format: "%b %-d, %Y"
-
-  # Generate social links in footer.
-  #
   social_links:
-    - { platform: linkedin, user_url: "https://www.linkedin.com/in/jekyll" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/glencstevens/" }
 
-
-# If you want to link only specific pages in your header, uncomment this and add the path to the pages in
-# order as they should show up.
-#
- header_pages:
-   - projects.md
+# If you want to link only specific pages in your header, uncomment this and add the path to the pages
+header_pages:
+  - projects.md
 
 # Set to `true` to show excerpts on the homepage.
-#
 show_excerpts: false
+
