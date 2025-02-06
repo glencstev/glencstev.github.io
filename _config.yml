@@ -5,8 +5,7 @@ author:
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-description: >
-  My name is Glen Stevens and I am a robotics Engineer who graduated from ASU with my Bachelors in Robotics Engineering in 2024. I am currently working on my Masters in Engineering at ASU with an expected graduation of May 2025.
+description: My name is Glen Stevens and I am a robotics Engineer who graduated from ASU with my Bachelors in Robotics Engineering in 2024. I am currently working on my Masters in Engineering at ASU with an expected graduation of May 2025.
 
 # Build settings
 
