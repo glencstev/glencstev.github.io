@@ -1,4 +1,12 @@
 title: Glen Stevens
+author:
+  name: Glen Stevens
+  email: glencstev@gmail.com
+
+# The `>` after `description:` means to ignore line-breaks until next key.
+# If you want to omit the line-break after the end of text, use `>-` instead.
+description: >
+  My name is Glen Stevens and I am a robotics Engineer who graduated from ASU with my Bachelors in Robotics Engineering in 2024. I am currently working on my Masters in Engineering at ASU with an expected graduation of May 2025.
 
 # Build settings
 
@@ -18,7 +26,7 @@ minima:
 
   # Generate social links in footer.
   #
-social_links:
+   social_links:
   #   - { platform: devto,          user_url: "https://dev.to/jekyll" }
   #   - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #   - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
@@ -27,7 +35,7 @@ social_links:
   #   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
   #   - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
   #   - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
-  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/glencstevens/" }
+      - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jekyll" }
   #   - { platform: microdotblog,   user_url: "https://micro.blog/jekyll" }
   #   - { platform: pinterest,      user_url: "https://www.pinterest.com/jekyll" }
   #   - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
@@ -38,8 +46,8 @@ social_links:
 # If you want to link only specific pages in your header, uncomment this and add the path to the pages in
 # order as they should show up.
 #
-header_pages:
-- projects.md
+ header_pages:
+   - projects.md
 
 # Set to `true` to show excerpts on the homepage.
 #
